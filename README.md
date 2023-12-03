@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi there. I'm Sourabh👋<br>*🚀I love programming, data science and books.<br>*🌱I am fond to learning new thing's and explore them.<br>*💻I am new learner on GitHub but I definitely try my best<br>  to learn new things that help me in future.  <br>
+Hi there. I'm Sourabh👋<br>*🚀I love programming, data science and books.<br>*🌱I am fond to learning new thing's and explore them.<br>*💻I am new learner on GitHub but I definitely try my best<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  to learn new things that help me in future.  <br>
 <img src="https://e1.pxfuel.com/desktop-wallpaper/359/927/desktop-wallpaper-night-room-room.jpg" >
 
 # 💻 Tech Stack:
