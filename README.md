@@ -1,6 +1,7 @@
 
 # 💫 About Me:
-Hi there. I'm Sourabh👋<br>*🚀I love programming, data science and books.<br>*🌱I am fond to learning new thing's and explore them.<br>*💻I am new learner on GitHub but I definitely try my best<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  to learn new things that help me in future.  <br>
+Hi there, I'm Sourabh Sharma! 👋
+I'm learning Machine Learning and Data Science with a passion for programming and frontend development. <br>*🚀I love reading books and exploring new technologies.
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
